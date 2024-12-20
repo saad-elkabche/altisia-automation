@@ -6,8 +6,8 @@ from selenium.webdriver.remote.webelement import WebElement
 import time
 
 
-username="saad.elkabche@e-polytechnique.ma"
-password="S@@delkabche12"
+username="username@e-polytechnique.ma"
+password="password"
 
 
 
